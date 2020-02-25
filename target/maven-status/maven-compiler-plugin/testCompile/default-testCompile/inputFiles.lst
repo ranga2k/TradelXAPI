@@ -1,0 +1,6 @@
+/Users/ramanaranga/git/TradelXAPI/src/test/java/com/tradelxapp/testbase/TestBase.java
+/Users/ramanaranga/git/TradelXAPI/src/test/java/com/tradelxapp/junit/tradelxinfo/PetCRUDTest.java
+/Users/ramanaranga/git/TradelXAPI/src/test/java/com/tradelxapp/cucumber/PetStoreRunner.java
+/Users/ramanaranga/git/TradelXAPI/src/test/java/com/tradelxapp/cucumber/serenity/PetStoreSerenitySteps.java
+/Users/ramanaranga/git/TradelXAPI/src/test/java/com/tradelxapp/utils/ReusableSpecifications.java
+/Users/ramanaranga/git/TradelXAPI/src/test/java/com/tradelxapp/cucumber/steps/PetSteps.java

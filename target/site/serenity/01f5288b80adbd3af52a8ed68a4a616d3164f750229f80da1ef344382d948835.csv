@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing different request on PetStore Application","Check if the petstore application can be accessed","SUCCESS","2020-02-25T09:09:45.625Z[Europe/London]","0.0","3.04"
+"Testing different request on PetStore Application","Create a new Pet and verify the pet has created","SUCCESS","2020-02-25T09:09:48.677Z[Europe/London]","0.0","4.17"
+"Testing different request on PetStore Application","Update the newly created Pet and verify the pet name and status has updated","SUCCESS","2020-02-25T09:09:52.851Z[Europe/London]","0.0","8.83"
+"Testing different request on PetStore Application","Delete the newly created Pet and verify the pet has deleted","SUCCESS","2020-02-25T09:10:01.684Z[Europe/London]","0.0","4.1"
